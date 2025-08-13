@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Muhammed Ajeel, a Bachelor of Computer Applications (BCA) graduate with a keen interest in cloud computing. I am passionate about developing my skills in this field and aspire to excel in cloud infrastructure and technology. I am eager to learn, collaborate, and contribute to innovative projects in the tech industry.
+I'm Muhammed Ajeel, a graduate of Bachelor of Computer Applications (BCA) and now enrolled in a Master's in Computer Applications (MCA) at Jain University with a keen interest in cloud computing. I am passionate about developing my skills in this field and aspire to excel in cloud infrastructure and technology. I am eager to learn, collaborate, and contribute to innovative projects in the tech industry.
 
 
 ## 🌐 Socials:
